@@ -1,6 +1,6 @@
 -  Hi, I’m @isste
 -  My background is in probabilistic learning processes and end-to-end automation.
--  My main interests are in reliable NLU and generative AI, Probabilistic Graphical Models, Markov Decision Processes, Reinforcement Learning, Evolutionary Game Theory, Human-Algo interaction, Knowledge Graphs and Explainable AI.  
+-  My main interests and experiences are in reliable NLU and generative AI, Probabilistic Graphical Models, Markov Decision Processes, Reinforcement Learning, Evolutionary Game Theory, Human-Algo interaction, Knowledge Graphs and Explainable AI.  
 
 
 <!---
